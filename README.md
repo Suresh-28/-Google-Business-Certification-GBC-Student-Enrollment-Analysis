@@ -1,0 +1,2 @@
+# -Google-Business-Certification-GBC-Student-Enrollment-Analysis
+This repository contains the raw enrollment dataset for students participating in the Google Business Certification (GBC) program across multiple batches and locations in India during 2023. The data was collected by training partners and includes demographic, academic, geographic, financial, and participation information for each enrolled student.
